@@ -1,0 +1,22 @@
+#+TITLE: Save seend apts
+#+AUTHOR: Ali Shahidi
+#+DESCRIPTION: firefox extension for save your seens
+#+OPTIONS: num:nil ^:{}
+
+
+* Abouts this extension
+
+you can save your seens for later by this extension
+
+For example, if you are watching a training course from a site that does not save your progress, with this extension you can mark the part of the video you watched next to the element. Until later, you will know how far you have seen
+
+this extension marked element by =(*seen)= to first of element
+
+
+* Usage
+
+for using this extension
+
+1. first install it from [[https://addons.mozilla.org/en-US/firefox/addon/save-seens-apts/][save_seens_apts]] and open extension menu by clicking on extension icon and click on =add save= button
+2. after click on =add save= button you must click on which element you want save in document
+3. done :)
